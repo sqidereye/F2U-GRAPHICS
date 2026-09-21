@@ -9,6 +9,5 @@ $\color{#E5E7CC}{\text{✧ F2U GRAPHICS ✧}}$
 
 <div align="center">
   <img src="https://file.garden/aeFuJe6P_R_1-oPi/F2U%20graphic/CHANCE%20MADE%20BY%20SPIDEREYE.png">
-  <img src="https://file.garden/aeFuJe6P_R_1-oPi/F2U%20graphic/GUEST%20MADE%20BY%20SPIDEREYE.png">
   <img src="https://file.garden/aeFuJe6P_R_1-oPi/F2U%20graphic/1x1x1x1%20MADE%20BYE%20SPIDEREYE.png">
 </div>
